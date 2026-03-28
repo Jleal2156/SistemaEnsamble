@@ -1,0 +1,25 @@
+{
+    
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33065,
+            "driver": "MySQL",
+            "name": "MySQL",
+            "database": "ensamble",
+            "username": "root",
+            "connectionTimeout": 30,
+            "password": ""
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+
+}
